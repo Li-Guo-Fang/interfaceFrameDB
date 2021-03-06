@@ -1,0 +1,64 @@
+2020-06-14 20:12:53 log.py[line:16] INFO 接口[用户注册]的第1用例不需要依赖数据!
+2020-06-14 20:12:53 log.py[line:16] INFO 接口[用户注册]的第1用例的实际响应结果为{'username': 'zhangsan123', 'code': '01'}
+2020-06-14 20:12:53 log.py[line:16] INFO 接口[用户注册]第1条用例的依赖数据存储成功！
+2020-06-14 20:12:53 log.py[line:16] INFO 接口[用户登录]的第1用例不需要依赖数据!
+2020-06-14 20:12:53 log.py[line:16] INFO 接口[用户登录]的第1用例的实际响应结果为{'code': '03', 'params': {'username': 'lilydsd23', 'password': 'ssd32de2'}}
+2020-06-14 20:12:53 log.py[line:16] INFO 接口[用户登录]第1条用例的依赖数据存储成功！
+2021-03-06 17:57:27 log.py[line:16] INFO 接口[用户注册]的第1用例不需要依赖数据!
+2021-03-06 18:00:34 log.py[line:16] INFO 接口[用户注册]的第1用例不需要依赖数据!
+2021-03-06 18:00:38 Image.py[line:368] DEBUG Importing BlpImagePlugin
+2021-03-06 18:00:38 Image.py[line:368] DEBUG Importing BmpImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing BufrStubImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing CurImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing DcxImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing DdsImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing EpsImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing FitsStubImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing FliImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing FpxImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Image: failed to import FpxImagePlugin: No module named 'olefile'
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing FtexImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing GbrImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing GifImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing GribStubImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing Hdf5StubImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing IcnsImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing IcoImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing ImImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing ImtImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing IptcImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing JpegImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing Jpeg2KImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing McIdasImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing MicImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Image: failed to import MicImagePlugin: No module named 'olefile'
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing MpegImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing MpoImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing MspImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing PalmImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing PcdImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing PcxImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing PdfImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing PixarImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing PngImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing PpmImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing PsdImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing SgiImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing SpiderImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing SunImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing TgaImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing TiffImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing WebPImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing WmfImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing XbmImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing XpmImagePlugin
+2021-03-06 18:00:39 Image.py[line:368] DEBUG Importing XVThumbImagePlugin
+2021-03-06 18:03:37 log.py[line:16] INFO 接口[用户注册]的第1用例不需要依赖数据!
+2021-03-06 18:13:52 log.py[line:17] INFO 接口[用户注册]的第1用例不需要依赖数据!
+2021-03-06 18:14:54 log.py[line:17] INFO 接口[用户注册]的第1用例不需要依赖数据!
+2021-03-06 18:14:55 log.py[line:17] INFO 接口[用户注册]的第1用例的实际响应结果为{'code': '00', 'userid': 208}
+2021-03-06 18:14:55 log.py[line:17] INFO 接口[用户注册]第1条用例的依赖数据存储成功！
+2021-03-06 18:14:55 log.py[line:17] INFO 接口[用户注册]第1条用例运行成功！
+2021-03-06 18:14:55 log.py[line:17] INFO 接口[用户登录]的第1用例不需要依赖数据!
+2021-03-06 18:14:55 log.py[line:17] INFO 接口[用户登录]的第1用例的实际响应结果为{'code': '03', 'params': {'username': 'lilydsd23', 'password': 'ssd32de2'}}
+2021-03-06 18:14:55 log.py[line:17] INFO 接口[用户登录]第1条用例的依赖数据存储成功！
